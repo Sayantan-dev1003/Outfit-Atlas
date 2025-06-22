@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.openSans {
+    font-family: "Open Sans", sans-serif;
+}
+
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
