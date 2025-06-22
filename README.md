@@ -51,7 +51,7 @@ Follow these steps to set up and run the Outfit Atlas project locally.
 ### 🔧 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Sayantan-dev1003/Outfit-Atlas.git
 cd outfit-atlas
 ```
 
